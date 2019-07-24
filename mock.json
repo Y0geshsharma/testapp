@@ -1,0 +1,17 @@
+{
+  "mockemployee": [
+    {
+      "employee_name": "yogesh",
+      "employee_age": "12",
+      "employee_salary": "1111",
+      "department": [
+        {
+          "dept": "Service",
+          "selected": true
+        }
+      ],
+      "statusNow": "confirm",
+      "id": 4
+    }
+  ]
+}
